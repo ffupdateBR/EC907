@@ -1,3 +1,3 @@
-# EC907
-Data Projects for my EC907 Financial Markets course
+# Grad School
+Data Projects done through my graduate studies
 
